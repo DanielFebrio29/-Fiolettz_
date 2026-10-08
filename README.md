@@ -26,10 +26,10 @@ const fiolettz = {
     ],
 
     tech: {
-        game: ["Phaser","Godot", "JavaScript"],
+        game: ["Phaser", "Godot", "JavaScript"],
         three_d: ["Blender"],
         design: ["Figma", "Pixelmator"],
-        database: ["MySQL", "SQL", "SQLITE"]
+        database: ["MySQL", "SQL", "SQLite"]
     }
 };
 ```
@@ -46,7 +46,7 @@ const fiolettz = {
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Fiolettz_"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/DanielFebrio29"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/daniel-febriopongtiku-pratama-a67826291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:pongtikupratamadanielfebrio@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -54,14 +54,16 @@ const fiolettz = {
 ## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=blender,js,html,css,figma,mysql,git,github,vscode,ps,pr,ae,ai&perline=13" />
+  <img src="https://skillicons.dev/icons?i=blender,godot,js,html,css,figma,mysql,sqlite,git,github,vscode,pr&perline=12" />
 </p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Phaser-8A2BE2?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pixelmator-0A84FF?style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/3D%20Modeling-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/Texturing-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/UV%20Mapping-265787?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Animation-D63384?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/UI%20Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Game%20Assets-2EA44F?style=for-the-badge&logoColor=white" />
 </p>
@@ -69,21 +71,21 @@ const fiolettz = {
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fiolettz_&theme=github_dark" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielFebrio29&theme=github_dark" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fiolettz_&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fiolettz_&theme=github_dark&utcOffset=7" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielFebrio29&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DanielFebrio29&theme=github_dark&utcOffset=7" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fiolettz_&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fiolettz_&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielFebrio29&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanielFebrio29&theme=github_dark" width="49%" />
 </p>
 
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-trophies.vercel.app/?username=Fiolettz_&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=4" />
+  <img src="https://github-trophies.vercel.app/?username=DanielFebrio29&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=4" />
 </p>
