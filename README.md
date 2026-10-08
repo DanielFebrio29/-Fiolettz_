@@ -1,5 +1,3 @@
-<!-- Ganti semua "Fiolettz_" dengan username GitHub kamu -->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=180&section=header&text=Daniel%20Febrio&fontColor=e6edf3&fontSize=42&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
@@ -26,13 +24,13 @@
 
 I build gameplay features and core game mechanics with **Phaser**, and create game-ready 3D assets in **Blender**, from modeling and texturing to UV mapping and optimization.
 
-I also enjoy designing UI that feel intuitive and easy to use.
+I also enjoy designing UI that feels intuitive and easy to use.
 
 My goal is simple: create assets and games that look good, run smooth, and feel great to play.
 
 </td>
 <td width="40%" align="center">
-  <img src="https://github.com/Fiolettz_.png" width="220" style="border-radius:12px" alt="Daniel" />
+  <img src="https://i.pinimg.com/736x/ca/77/93/ca7793558cd33da67e093893029c4dc8.jpg" width="240" alt="Fiolettz" />
 </td>
 </tr>
 </table>
@@ -58,7 +56,7 @@ My goal is simple: create assets and games that look good, run smooth, and feel 
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=ps,pr,ae,ai&perline=4" />
   <br/><br/>
-  <img src="https://img.shields.io/badge/Phaser-1a1a2e?style=for-the-badge&logo=data:image/png;base64,&logoColor=white" alt="Phaser" />
+  <img src="https://img.shields.io/badge/Phaser-1a1a2e?style=for-the-badge&logoColor=white" alt="Phaser" />
 </p>
 
 ---
