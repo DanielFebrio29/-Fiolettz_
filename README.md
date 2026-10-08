@@ -11,24 +11,25 @@
 ```javascript
 const fiolettz = {
     role: "Game Developer & 3D Generalist",
-    location: "Indonesia 🇮🇩",
+    location: "Earth 🌏",
 
     building: [
-        "Browser Games",
-        "Game-ready 3D Assets"
+        "Games",
+        "Game-ready 3D Assets",
+        "Animation"
     ],
 
     learning: [
-        "Game Systems Design",
-        "Advanced Texturing",
-        "Shaders"
+        "Game Design With Godot",
+        "PR Render",
+        "VFX"
     ],
 
     tech: {
-        game: ["Phaser", "JavaScript"],
+        game: ["Phaser","Godot", "JavaScript"],
         three_d: ["Blender"],
-        design: ["Figma", "Photoshop", "Illustrator"],
-        database: ["MySQL", "SQL"]
+        design: ["Figma", "Pixelmator"],
+        database: ["MySQL", "SQL", "SQLITE"]
     }
 };
 ```
