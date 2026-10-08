@@ -1,76 +1,88 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=180&section=header&text=Daniel%20Febrio&fontColor=e6edf3&fontSize=42&animation=fadeIn&fontAlignY=38" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:1f2a44,100:30363d&height=170&section=header&text=FIOLETTZ&fontColor=e6edf3&fontSize=60&fontAlign=70&fontAlignY=42&desc=Game%20Developer%20%7C%203D%20Generalist%20%7C%20UI%20Designer&descAlign=70&descAlignY=68&descSize=14" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Fiolettz</h1>
-
-<h3 align="center">Game Developer · 3D Generalist</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&width=500&lines=Building+worlds%2C+one+polygon+at+a+time;Blender+%C2%B7+Phaser+%C2%B7+UI+Design;Game-ready+assets%2C+playable+ideas" alt="Typing SVG" />
-</p>
-
-<p align="center">Crafting game-ready 3D assets and playable experiences with clean, optimized workflows.</p>
-
----
-
-<h2 align="center">🚀 About Me</h2>
+## 🎯 About Me
 
 <table>
 <tr>
-<td width="60%" valign="top">
+<td width="55%" valign="top">
 
-**Daniel**, here — a developer and designer focused on **game development** and **3D design**.
+```javascript
+const fiolettz = {
+    role: "Game Developer & 3D Generalist",
+    location: "Indonesia 🇮🇩",
 
-I build gameplay features and core game mechanics with **Phaser**, and create game-ready 3D assets in **Blender**, from modeling and texturing to UV mapping and optimization.
+    building: [
+        "Browser Games",
+        "Game-ready 3D Assets"
+    ],
 
-I also enjoy designing UI that feels intuitive and easy to use.
+    learning: [
+        "Game Systems Design",
+        "Advanced Texturing",
+        "Shaders"
+    ],
 
-My goal is simple: create assets and games that look good, run smooth, and feel great to play.
+    tech: {
+        game: ["Phaser", "JavaScript"],
+        three_d: ["Blender"],
+        design: ["Figma", "Photoshop", "Illustrator"],
+        database: ["MySQL", "SQL"]
+    }
+};
+```
+
+<p align="center"><i>"A delayed game is eventually good,<br/>but a rushed game is forever bad."</i><br/>— Shigeru Miyamoto</p>
 
 </td>
-<td width="40%" align="center">
-  <img src="https://i.pinimg.com/736x/ca/77/93/ca7793558cd33da67e093893029c4dc8.jpg" width="240" alt="Fiolettz" />
+<td width="45%" align="center" valign="middle">
+  <img src="https://i.pinimg.com/736x/ca/77/93/ca7793558cd33da67e093893029c4dc8.jpg" width="100%" alt="Fiolettz" />
 </td>
 </tr>
 </table>
 
----
-
-<h2 align="center">🤝 Connect</h2>
+## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/Fiolettz_"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/daniel-febriopongtiku-pratama-a67826291"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  &nbsp;
-  <a href="mailto:pongtikupratamadanielfebrio@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40" /></a>
+  <a href="https://github.com/Fiolettz_"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/daniel-febriopongtiku-pratama-a67826291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:pongtikupratamadanielfebrio@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
----
-
-<h2 align="center">💻 Tech Stack</h2>
+## 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=blender,js,html,css,figma,mysql,git,github,vscode&perline=9" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=ps,pr,ae,ai&perline=4" />
-  <br/><br/>
-  <img src="https://img.shields.io/badge/Phaser-1a1a2e?style=for-the-badge&logoColor=white" alt="Phaser" />
+  <img src="https://skillicons.dev/icons?i=blender,js,html,css,figma,mysql,git,github,vscode,ps,pr,ae,ai&perline=13" />
 </p>
 
----
-
-<h2 align="center">📊 GitHub Stats</h2>
-
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Fiolettz_&theme=github-dark-blue&hide_border=true&background=161B22" />
+  <img src="https://img.shields.io/badge/Phaser-8A2BE2?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/3D%20Modeling-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Texturing-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/UV%20Mapping-265787?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/UI%20Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Game%20Assets-2EA44F?style=for-the-badge&logoColor=white" />
 </p>
 
----
-
-<h2 align="center">📈 Activity Graph</h2>
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/58a6ff/Fiolettz_" width="100%" alt="Contribution chart" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fiolettz_&theme=github_dark" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fiolettz_&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Fiolettz_&theme=github_dark&utcOffset=7" width="49%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fiolettz_&theme=github_dark" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Fiolettz_&theme=github_dark" width="49%" />
+</p>
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-trophies.vercel.app/?username=Fiolettz_&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=4" />
 </p>
