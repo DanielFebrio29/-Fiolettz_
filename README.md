@@ -21,7 +21,7 @@ const fiolettz = {
 
     learning: [
         "Game Design With Godot",
-        "PR Render",
+        "Photorealistic render",
         "VFX"
     ],
 
