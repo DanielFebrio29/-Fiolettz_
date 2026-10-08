@@ -1,15 +1,15 @@
-<!-- Ganti semua "GITHUB_USERNAME" dengan username GitHub kamu -->
+<!-- Ganti semua "Fiolettz_" dengan username GitHub kamu -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:30363d&height=180&section=header&text=Daniel%20Febrio&fontColor=e6edf3&fontSize=42&animation=fadeIn&fontAlignY=38" width="100%" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Daniel</h1>
+<h1 align="center">Hi 👋, I'm Fiolettz</h1>
 
-<h3 align="center">Game Developer · 3D Designer</h3>
+<h3 align="center">Game Developer · 3D Generalist</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&width=500&lines=Building+worlds%2C+one+polygon+at+a+time;Blender+%C2%B7+Phaser+%C2%B7+UI+Design;Computer+Science+Student+%40+UKSW" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=E6EDF3&center=true&vCenter=true&width=500&lines=Building+worlds%2C+one+polygon+at+a+time;Blender+%C2%B7+Phaser+%C2%B7+UI+Design;Game-ready+assets%2C+playable+ideas" alt="Typing SVG" />
 </p>
 
 <p align="center">Crafting game-ready 3D assets and playable experiences with clean, optimized workflows.</p>
@@ -22,17 +22,17 @@
 <tr>
 <td width="60%" valign="top">
 
-**Daniel**, here — an Information Technology student at **Universitas Kristen Satya Wacana**, Salatiga, focused on game development and 3D design.
+**Daniel**, here — a developer and designer focused on **game development** and **3D design**.
 
-I've built gameplay features, core mechanics, and login interfaces with **Phaser** at **Gamelab Indonesia**, and created game-ready 3D assets — modeling, texturing, and UV mapping — at **Eintio**.
+I build gameplay features and core game mechanics with **Phaser**, and create game-ready 3D assets in **Blender**, from modeling and texturing to UV mapping and optimization.
 
-I also design **UI and system flows**, and have handled visual content and stage media for campus events like the **FIT Competition** and **Hult Prize at UKSW**.
+I also enjoy designing **UI and system flows** that feel intuitive and easy to use.
 
 My goal is simple: create assets and games that look good, run smooth, and feel great to play.
 
 </td>
 <td width="40%" align="center">
-  <img src="https://github.com/GITHUB_USERNAME.png" width="220" style="border-radius:12px" alt="Daniel" />
+  <img src="https://github.com/Fiolettz_.png" width="220" style="border-radius:12px" alt="Daniel" />
 </td>
 </tr>
 </table>
@@ -42,7 +42,7 @@ My goal is simple: create assets and games that look good, run smooth, and feel 
 <h2 align="center">🤝 Connect</h2>
 
 <p align="center">
-  <a href="https://github.com/GITHUB_USERNAME"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
+  <a href="https://github.com/Fiolettz_"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/daniel-febriopongtiku-pratama-a67826291"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
   &nbsp;
@@ -66,7 +66,7 @@ My goal is simple: create assets and games that look good, run smooth, and feel 
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=GITHUB_USERNAME&theme=github-dark-blue&hide_border=true&background=161B22" />
+  <img src="https://streak-stats.demolab.com?user=Fiolettz_&theme=github-dark-blue&hide_border=true&background=161B22" />
 </p>
 
 ---
@@ -74,5 +74,5 @@ My goal is simple: create assets and games that look good, run smooth, and feel 
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GITHUB_USERNAME&theme=github-compact&hide_border=true&bg_color=161B22&color=e6edf3&line=58a6ff&point=58a6ff" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fiolettz_&theme=github-compact&hide_border=true&bg_color=161B22&color=e6edf3&line=58a6ff&point=58a6ff" width="100%" />
 </p>
