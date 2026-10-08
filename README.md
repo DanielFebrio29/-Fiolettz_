@@ -72,5 +72,5 @@ My goal is simple: create assets and games that look good, run smooth, and feel 
 <h2 align="center">📈 Activity Graph</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fiolettz_&theme=github-compact&hide_border=true&bg_color=161B22&color=e6edf3&line=58a6ff&point=58a6ff" width="100%" />
+  <img src="https://ghchart.rshah.org/58a6ff/Fiolettz_" width="100%" alt="Contribution chart" />
 </p>
