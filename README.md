@@ -53,7 +53,7 @@ const fiolettz = {
   <a href="mailto:pongtikupratamadanielfebrio@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
-## 🛠️ Tech Stack
+## 🛠️ TOOLS
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=blender,godot,js,html,css,figma,mysql,sqlite,github,vscode&perline=10" />
@@ -72,7 +72,7 @@ const fiolettz = {
   <img src="https://img.shields.io/badge/Game%20Assets-2EA44F?style=for-the-badge&logoColor=white" />
 </p>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=fiolettz&theme=github-dark-blue&hide_border=true&background=161B22" />
