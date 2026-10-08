@@ -47,7 +47,9 @@ const fiolettz = {
 
 <p align="center">
   <a href="https://github.com/fiolettz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/daniel-febriopongtiku-pratama-a67826291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/daniel-febrio-pongtiku-pratama-a67826291/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.instagram.com/fiolettz/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.artstation.com/danielfebriofebrio"><img src="https://img.shields.io/badge/ArtStation-13AFF0?style=for-the-badge&logo=artstation&logoColor=white" /></a>
   <a href="mailto:pongtikupratamadanielfebrio@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -66,4 +68,14 @@ const fiolettz = {
   <img src="https://img.shields.io/badge/Animation-D63384?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/UI%20Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Game%20Assets-2EA44F?style=for-the-badge&logoColor=white" />
+</p>
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=fiolettz&theme=github-dark-blue&hide_border=true&background=161B22" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/58a6ff/fiolettz" width="100%" alt="Contribution chart" />
 </p>
