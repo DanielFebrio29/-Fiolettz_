@@ -61,7 +61,7 @@ const fiolettz = {
 
 <p align="center">
   <img src="https://img.shields.io/badge/Phaser-8A2BE2?style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pixelmator-0A84FF?style=for-the-badge&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pixelmator-0A84FF?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Final%20Cut%20Pro-1C1C1E?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" />
   <img src="https://img.shields.io/badge/3D%20Modeling-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
