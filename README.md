@@ -26,7 +26,7 @@
 
 I build gameplay features and core game mechanics with **Phaser**, and create game-ready 3D assets in **Blender**, from modeling and texturing to UV mapping and optimization.
 
-I also enjoy designing **UI and system flows** that feel intuitive and easy to use.
+I also enjoy designing UI that feel intuitive and easy to use.
 
 My goal is simple: create assets and games that look good, run smooth, and feel great to play.
 
