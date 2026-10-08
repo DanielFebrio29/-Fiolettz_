@@ -46,7 +46,7 @@ const fiolettz = {
 ## 📬 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/DanielFebrio29"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/fiolettz"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/daniel-febriopongtiku-pratama-a67826291"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:pongtikupratamadanielfebrio@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
@@ -66,26 +66,4 @@ const fiolettz = {
   <img src="https://img.shields.io/badge/Animation-D63384?style=for-the-badge&logo=blender&logoColor=white" />
   <img src="https://img.shields.io/badge/UI%20Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Game%20Assets-2EA44F?style=for-the-badge&logoColor=white" />
-</p>
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DanielFebrio29&theme=github_dark" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DanielFebrio29&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DanielFebrio29&theme=github_dark&utcOffset=7" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DanielFebrio29&theme=github_dark" width="49%" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DanielFebrio29&theme=github_dark" width="49%" />
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-trophies.vercel.app/?username=DanielFebrio29&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=4" />
 </p>
