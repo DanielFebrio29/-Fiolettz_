@@ -64,10 +64,10 @@ const fiolettz = {
   <img src="https://img.shields.io/badge/Pixelmator-0A84FF?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/Final%20Cut%20Pro-1C1C1E?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/DaVinci%20Resolve-233A51?style=for-the-badge&logo=davinciresolve&logoColor=white" />
-  <img src="https://img.shields.io/badge/3D%20Modeling-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Texturing-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/UV%20Mapping-265787?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/Animation-D63384?style=for-the-badge&logo=blender&logoColor=white" />
-  <img src="https://img.shields.io/badge/UI%20Design-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Godot-F5792A?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Marvelous%20Design-E87D0D?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Substain%20Painter-265787?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pixamator-D63384?style=for-the-badge&logo=blender&logoColor=white" />
+  <img src="https://img.shields.io/badge/Finalcut%20Pro-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Game%20Assets-2EA44F?style=for-the-badge&logoColor=white" />
 </p>
